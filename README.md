@@ -8,7 +8,7 @@ This site is an experiment in **open reviewing**.
 
 - All reviews are public domains.
 - All final decisions are public domain.
-- All  software for managing that process (*) is open source and readily usable 
+- All  software for managing that process (*) is open source and readily usable. 
 
 
 (*) Github issues and Google Sheets.
