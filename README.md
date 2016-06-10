@@ -1,4 +1,4 @@
-<img align=right width=500 src="http://cdn.static-economist.com/sites/default/files/20140614_STD001.jpg">
+<img align=right width=500 src="http://s14.postimg.org/xw2u7q235/open_materials_all.png">
 
 # ICSME'16 Artifacts Track
 
