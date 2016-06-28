@@ -33,7 +33,7 @@ EOF
 mkdir submissions/$1
 touch submissions/$1/README.md
 git add submissions/$1/README.md
-git commit -am "saving"
+git commit -am "Registering an author to the repo"
 git push origin master
 
 txt $1 $2
