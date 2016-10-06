@@ -20,10 +20,10 @@ Leonard Punt, Sjoerd Visscher and Vadim Zaytsev. A Tool for Detecting and Refact
 
 + [Slides](xxx)
 
-Gustavo Pinto, Kenan Liu, Fernando Castor and Yu David Liu. A Comprehensive Study on the Energy Efficiency of Java's Thread-Safe Collections
+(*) Gustavo Pinto, Kenan Liu, Fernando Castor and Yu David Liu. A Comprehensive Study on the Energy Efficiency of Java's Thread-Safe Collections
 
 
-+ [Slides](xxx)
++ [Slides](https://github.com/researchart/icsme16/raw/master/talks/icsme2016c.pdf)
 
 Leonard Punt, Sjoerd Visscher and Vadim Zaytsev. The A?B*A Pattern: Undoing Style in CSS and Refactoring Opportunities it Presents
 
