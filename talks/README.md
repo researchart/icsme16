@@ -15,7 +15,7 @@ Breno D. Cruz, Paul W. McBurney and Collin McMillan. TraceLab Components for Rep
 
 + [Slides](xxx)
 
-Leonard Punt, Sjoerd Visscher and Vadim Zaytsev. A Tool for Detecting and Refactoring the A?B*A Pattern in CSS
+(*) Leonard Punt, Sjoerd Visscher and Vadim Zaytsev. A Tool for Detecting and Refactoring the A?B*A Pattern in CSS
 
 
 + [Slides](xxx)
@@ -25,10 +25,10 @@ Leonard Punt, Sjoerd Visscher and Vadim Zaytsev. A Tool for Detecting and Refact
 
 + [Slides](https://github.com/researchart/icsme16/raw/master/talks/icsme2016c.pdf)
 
-Leonard Punt, Sjoerd Visscher and Vadim Zaytsev. The A?B*A Pattern: Undoing Style in CSS and Refactoring Opportunities it Presents
+Leonard Punt, Sjoerd Visscher and (*) Vadim Zaytsev. Experimental Data for the A?B*A Pattern in CSS: Inputs and Outputs
 
 
-+ [Slides](xxx)
++ [Slides](https://github.com/researchart/icsme16/raw/master/talks/aba-data-present.pdf) ([print](https://github.com/researchart/icsme16/raw/master/talks/aba-data-print.pdf))
 
 
 ___
